@@ -1,8 +1,8 @@
 # Token Radar
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-FFD700)](https://make.fun/bounty/token-radar-01)
-[![make.fun radar](https://img.shields.io/badge/make.fun-token%20radar-3DDC97)](https://make.fun/bounty/token-radar-01)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-6EA8FF)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/UpTo1M/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/UpTo1M/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 A token launch radar: it reads a sealed DefiLlama snapshot of 758 protocols, finds the ones with no token on record, and ranks them by implied value — what a launch would be worth if the protocol's record stayed as it is. The watchlist is the floor (40 protocols with at least $50M of TVL and no token on record); the early radar adds 186 pre-token protocols below that floor. Every row carries a farm plan with costs and times, and the dashboard lets you sort, filter, inspect one protocol's model, and re-rank the board with a model sandbox.
 
